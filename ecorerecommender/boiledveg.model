@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ASCII"?>
+<Recipe xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns="recipes" xmi:id="_sgurwLovEeqD6_jrLKHjnA">
+  <steps xmi:id="_tms1ULovEeqD6_jrLKHjnA" name="Chop onions" next="_yuWroLovEeqD6_jrLKHjnA"/>
+  <steps xmi:id="_yuWroLovEeqD6_jrLKHjnA" name="Boil" previous="_tms1ULovEeqD6_jrLKHjnA" next="_1-MEsLovEeqD6_jrLKHjnA"/>
+  <steps xmi:id="_1-MEsLovEeqD6_jrLKHjnA" name="Drain" previous="_yuWroLovEeqD6_jrLKHjnA"/>
+</Recipe>
